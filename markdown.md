@@ -3,8 +3,6 @@
 ## 1. Tradición y Cuidado Personal
 En nuestro salón combinamos las técnicas tradicionales de **corte a tijera**
 
-utilizando el software `gestor_citas.py` para organizar la agenda diaria de nuestros clientes.
-
 2. Servicios y Pasos de Atención
 Proceso de atención al cliente (Lista ordenada)
 Recepción y diagnóstico del tipo de cabello
